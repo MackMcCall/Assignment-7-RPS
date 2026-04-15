@@ -1,5 +1,8 @@
 # Assignment-7-RPS
 
+Video Walkthrough
+https://uncg-my.sharepoint.com/:v:/g/personal/mcmccall_uncg_edu/IQBnLfVCvTl_R4zCQs2HCm0bAQxoDYaJFg1JYH5CycscSNw?e=w7hd0p
+
 ## Getting Started
 
 Clone the repository and navigate to the project directory.
